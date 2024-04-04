@@ -1,3 +1,8 @@
+- [ ] Turn on GitHub Pages
+- [ ] complete training
+- [ ] Introduce myself to the world
+
+
 ``` javascript
 
 /* current age*/
